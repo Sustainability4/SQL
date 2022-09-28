@@ -21,3 +21,6 @@ Types of Window functions
 window_function ( [ ALL ] expression ) 
 OVER ( [ PARTITION BY partition_list ] [ ORDER BY order_list] )
 
+
+Good Place to practice the Window function as recommended by Ayan Ghosh : https://www.windowfunctions.com/
+
