@@ -16,3 +16,8 @@ Types of Window functions
 3. Value Window Functions : LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 
+# Syntax
+
+window_function ( [ ALL ] expression ) 
+OVER ( [ PARTITION BY partition_list ] [ ORDER BY order_list] )
+
